@@ -17,16 +17,7 @@ venv/
 .vscode/
 *.swp
 
-# Test files
-test_models/
-test_output/
-
 # OS
 .DS_Store
 Thumbs.db
 
-# Model files
-*.pt
-*.pth
-*.onnx
-*.onnx.data
